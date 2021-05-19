@@ -15,4 +15,4 @@ This course tries to be as concise as possible. It will probably take you about 
 
 ## Course Description
 Total Hours: ~13 Hrs
-![Certificate](Certificate_Version_Control_with_Git.jpg)
+![Certificate](5.2_Coursera_1C_Version-Control-with-Git.jpg)
