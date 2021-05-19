@@ -15,4 +15,4 @@ This course tries to be as concise as possible. It will probably take you about 
 
 ## Course Description
 Total Hours: ~13 Hrs
-![Certificate](https://github.com/bdfd/5.1_Coursera_1C_Data-Science-Math-Skills/blob/main/Certificate_Data_Science_Math_Skills.jpg)
+![Certificate](Certificate_Version_Control_with_Git.jpg)
