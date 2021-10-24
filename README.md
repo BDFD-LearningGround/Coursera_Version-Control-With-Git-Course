@@ -13,6 +13,6 @@ This course uses Bitbucket (bitbucket.org) as the hosted provider for remote Git
 
 This course tries to be as concise as possible. It will probably take you about 5-10 hours to go through one of the two paths, but your mileage may vary.
 
-## Course Description
+## Course Certificate
 Total Hours: ~13 Hrs
 ![Certificate](5.2_Coursera_1C_Version-Control-with-Git.jpg)
