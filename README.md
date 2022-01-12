@@ -1,6 +1,6 @@
 # Coursera_Version-Control-with-Git
 ### Coursera Link [Version-Control-with-Git](https://www.coursera.org/learn/version-control-with-git)
-## Course Description
+## Course Description 1 Course
 The Version Control with Git course provides  you with a solid, hands-on foundation for understanding the Git version control system.  Git is open source software originally created by Linus Torvalds. Git manages team files for large and small projects. This allows the team to continuously improve its product. It is used by most major technology companies, and is assumed knowledge for many modern programming and IT jobs.  It is a core component of DevOps, continuous delivery pipelines and cloud-native computing. You could also use Git to manage the many continuously improving revisions of that book that you are writing. 
 
 In this course, you will not learn everything there is to know about Git, but you will build a strong conceptual understanding of the technology, and afterward will be able to confidently dig deeper on any topic that interests you. This course assumes no previous knowledge of Git, but if you do have experience with it, you may find this course to be both useful and challenging. This is especially true if you currently "know just enough Git to be dangerous". 
