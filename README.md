@@ -11,12 +11,13 @@ About This workshop and the materials in this repo are for anyone who is interes
 
 **Course Link:** [Version-Control-with-Git](https://www.coursera.org/learn/version-control-with-git)
 
+## Course Description: 1 Course
+The Version Control with Git course provides  you with a solid, hands-on foundation for understanding the Git version control system.  Git is open source software originally created by Linus Torvalds. Git manages team files for large and small projects. This allows the team to continuously improve its product. It is used by most major technology companies, and is assumed knowledge for many modern programming and IT jobs.  It is a core component of DevOps, continuous delivery pipelines and cloud-native computing. You could also use Git to manage the many continuously improving revisions of that book that you are writing. 
+
 ## Applied Learning Project
 
 **Tools:** Git, GitHub,
 
-## Course Description: 1 Course
-The Version Control with Git course provides  you with a solid, hands-on foundation for understanding the Git version control system.  Git is open source software originally created by Linus Torvalds. Git manages team files for large and small projects. This allows the team to continuously improve its product. It is used by most major technology companies, and is assumed knowledge for many modern programming and IT jobs.  It is a core component of DevOps, continuous delivery pipelines and cloud-native computing. You could also use Git to manage the many continuously improving revisions of that book that you are writing. 
 
 ## Course Certificate
 Total Hours: ~13 Hrs
