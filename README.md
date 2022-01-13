@@ -5,7 +5,7 @@
 
 # Version Control with Git(Coursera)
 
-## About This Course/Certificate
+## About This Course
 
 About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
 
