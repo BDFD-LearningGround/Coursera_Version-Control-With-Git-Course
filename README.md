@@ -3,7 +3,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Version-Control-with-Git_Coursera.1CD?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Done.svg" alt="bdfd" />
 
-# Coursera_Version-Control-with-Git
+# Version Control with Git(Coursera)
 
 ## About This Course/Certificate
 
