@@ -20,7 +20,7 @@ The Version Control with Git course provides  you with a solid, hands-on foundat
 
 ## Course Certificate
 Total Hours: ~13 Hrs
-![Certificate](5.2_Coursera_1C_Version-Control-with-Git.jpg)
+![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/6.0-Others/Course-Version%20Control%20with%20Git/Course-Version%20Control%20with%20Git.jpeg)
 
 <div align="center">
 
