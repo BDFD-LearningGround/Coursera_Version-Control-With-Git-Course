@@ -1,3 +1,8 @@
+![ViewCount](<https://views.whatilearened.today/views/github/BDFD-LearningGround/Version-Control-with-Git_Coursera.1CD.svg?cache=remove>)
+![GitHub top language](<https://img.shields.io/github/languages/top/BDFD-LearningGround/Version-Control-with-Git_Coursera.1CD?style=flat>)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Version-Control-with-Git_Coursera.1CD?style=flat)
+<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Done.svg" alt="bdfd" />
+
 # Coursera_Version-Control-with-Git
 ### Coursera Link [Version-Control-with-Git](https://www.coursera.org/learn/version-control-with-git)
 ## Course Description 1 Course
